@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Strategy_Pattern.dir/main.cpp.o  -o Strategy_Pattern -rdynamic libDuck.a libBehavior.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBehavior.a  CMakeFiles/Behavior.dir/QuackNormal.cpp.o CMakeFiles/Behavior.dir/QuackNoWay.cpp.o CMakeFiles/Behavior.dir/FlyNoWay.cpp.o CMakeFiles/Behavior.dir/FlyWithWings.cpp.o
+/usr/bin/ranlib libBehavior.a
